@@ -148,9 +148,6 @@ During my internship period, I participated in multiple community-oriented activ
 
 <!-- add your photos below -->
 <!-- change url below with your image urls (inside  src='')-->
-
-- These are just placeholder (sample) images <!-- remove this line -->
-
 <div align="center">
 <img src="https://github.com/nainashukla1/SureTrust_UI_UX-Design/blob/main/WhatsApp%20Image%202026-02-08%20at%2010.31.37%20PM%20(1).jpeg" width="30%">
 
