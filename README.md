@@ -89,7 +89,7 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
   It focused on understanding requirements, creating structured code, and implementing key features.
 </p>
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="<[!-- Add link to full report -->](https://github.com/nainashukla1/SureTrust_UI_UX-Design/blob/main/Ride%20Buddy%20Project%20Report.pdf)" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <!-- Project 2 -->
